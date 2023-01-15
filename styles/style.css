@@ -1,0 +1,95 @@
+
+body{
+    width: 100vw;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin: 0px;
+}
+
+
+.prueba{
+    background-image: url("https://concepto.de/wp-content/uploads/2018/08/monta%C3%B1as-e1533762816593.jpg");
+    width: 100vw;
+    height: 60vh;
+}
+
+#introduction{
+    font-size:24px
+}
+
+  header h1{
+
+ font-size: 5em;
+ position: absolute;
+ left: 35%;
+ bottom: 50%;
+ color: white;
+}
+
+p, hr, ul, ol{
+    width: 60%;
+    padding: 2px 20%;
+    margin: auto, 10px
+}
+    
+hr{
+    width: 30vw;
+}
+
+  h1 {
+    text-align: center;
+    
+  }
+
+  h2{
+    padding: 2px 17%
+  }
+
+  .img-format{
+    height: auto;
+    display: block;
+    margin: auto;
+    width: 40%;
+
+  }
+
+  .img-format-1{
+    height: auto;
+    display: block;
+    margin: auto;
+    width: 30%;
+
+  }
+
+  #img-div{
+    width: 100vw;
+    height: 80vh;
+    object-fit: cover;
+
+  }
+
+#img-1{
+    background-image: url("../images/apple-pie.jpg");
+    height: 40vh;
+    width: 100vw;
+    object-fit: contain;
+}
+
+  p, h2 {
+    margin:15px;
+  }
+
+  img{
+    background-image: no-repeat center center/cover;
+    height: 650px;
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin: 0;
+  }
+
+  button{
+    position: fixed;
+    top: 50%;
+    right: 0%;
+  }
